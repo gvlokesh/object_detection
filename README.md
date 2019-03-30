@@ -1,8 +1,6 @@
-# object_detection
-Food detection using google object detection run on google colab
+# Indian food finder using object detection
 
-
-We will build a simple object detection tool to determine the Indian food on the image.
+Input an  image and it will detect  the Indian food present in it.
 
 **Food classes/types considered:**
 
