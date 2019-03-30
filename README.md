@@ -13,4 +13,6 @@ Used ssd_inception_v2_coco model, since it provides a relatively good trade-off 
 
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models
 
+![Alt text](gvlokesh/object_detection/output.JPG?raw=true "Title")
+
 
