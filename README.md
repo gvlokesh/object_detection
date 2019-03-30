@@ -4,9 +4,10 @@ Food detection using google object detection run on google colab
 
 We will build a simple object detection tool to determine the Indian food on the image.
 
-**Food classes/yypes considered:**
+**Food classes/types considered:**
 
 Idli 
+
 Dosa
 
 For this we will be using google's object detection API
